@@ -1,0 +1,12 @@
+table{
+    border: 2px solid black;
+   height: 20vh;
+   width: 30%;
+   border-collapse: collapse;
+}
+th{
+    border: 2px solid rgb(235, 71, 71);
+}
+td{
+    border: 2px solid rgb(235, 71, 71);
+}
